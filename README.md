@@ -1,0 +1,2 @@
+# dicegame
+DOM practice website
